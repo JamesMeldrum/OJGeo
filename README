@@ -1,5 +1,9 @@
 Author: James Meldrum (Team Delta)
 Date: Mid-August
-Lang: Python
+Lang: Python 2.7
 Desc: Suite of modules to aid in data acquisition and model development for
       Oddjob.
+Non-Core Dependencies: 
+	Bundled:
+		BeautifulSoup
+	
